@@ -1,0 +1,10 @@
+.side-img {
+    background: url(../images/library.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.content{
+    margin-top: 30px
+}
