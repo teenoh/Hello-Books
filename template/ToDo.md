@@ -1,5 +1,5 @@
-* user registration/login form
-* Page with lists of library books (accessible by registered users)
+* user registration/login form    ---Done
+* Page with lists of library books (accessible by registered users) ---Done
 * Profile page for registered user, should contain borrowed books
 * Page showing users borrowing history
 * admin page that can
