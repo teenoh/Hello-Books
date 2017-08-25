@@ -1,7 +1,7 @@
 * user registration/login form    ---Done
 * Page with lists of library books (accessible by registered users) ---Done
-* Profile page for registered user, should contain borrowed books
-* Page showing users borrowing history
+* Profile page for registered user, should contain borrowed books --Done
+* Page showing users borrowing history --Done
 * admin page that can
         - create or add new books
         - add quantities and categorize books
