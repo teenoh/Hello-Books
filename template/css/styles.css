@@ -5,6 +5,11 @@
     width: 100%;
 }
 
+ .signup{
+    margin-top: 30px;
+   
+}
+
 .content{
-    margin-top: 30px
+    height: 600px
 }
