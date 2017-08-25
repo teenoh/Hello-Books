@@ -1,8 +1,9 @@
 .side-img {
-    background: url(../images/library.jpg);
+    background: url(../images/library2.jpg);
     background-size:100%;
     background-repeat: no-repeat;
     width: 100%;
+    position: relative;
 }
 
  .signup{
